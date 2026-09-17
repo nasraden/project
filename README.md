@@ -135,3 +135,4 @@ supabase/schema.sql                Full database schema + RLS policies
 
 # kulmi-hub
 # project
+# project
