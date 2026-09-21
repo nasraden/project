@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "Kulmi Hub — Hargeisa's Talent Marketplace",
   description:
     "Kulmi Hub connects Somali companies and freelancers through transparent, skill-based talent matching.",
+     icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
